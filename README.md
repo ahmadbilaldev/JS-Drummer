@@ -1,2 +1,2 @@
-# JS-Practice
-# JS-Practice
+# JS-Drummer
+Just a simple fun JavaScript drummer. Get Drummin' 🥁🔥
